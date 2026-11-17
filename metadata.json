@@ -1,0 +1,6 @@
+{
+  "name": "KhojAI — Zero-Knowledge Multimodal Lost, Found & Missing Alert Network",
+  "description": "AI-powered zero-knowledge lost, found, and missing alert network with privacy blur, weighted verification quizzes, and emergency broadcasts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
